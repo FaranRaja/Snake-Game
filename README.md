@@ -6,7 +6,9 @@ Features:
   1. Three types of food with different point values:
      
       1.1. Regular food (1 point)
+     
       1.2. Special food (3 points)
+     
       1.3. Bonus food (5 points)
 
   3. Real-time score tracking displayed on the game screen.
